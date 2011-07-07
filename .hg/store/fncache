@@ -1,0 +1,13 @@
+data/.classpath.i
+data/.project.i
+data/AndroidManifest.xml.i
+data/bin/BusDroid.apk.i
+data/bin/classes.dex.i
+data/bin/resources.ap_.i
+data/default.properties.i
+data/proguard.cfg.i
+data/res/drawable/icon.png.i
+data/res/layout/main.xml.i
+data/res/layout/tabs.xml.i
+data/res/values/strings.xml.i
+data/src/org/busdroid/app/BusDroid.java.i
